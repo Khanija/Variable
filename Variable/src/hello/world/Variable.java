@@ -9,7 +9,8 @@ public class Variable
 		System.out.println("Student age is:"+age);
 	}
  
-	public static void main(String[] args) {
+	public static void main(String[] args) 
+	{
 		Variable temp = new Variable();
 		temp.StudentAge();
 		
