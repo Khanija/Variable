@@ -1,6 +1,6 @@
 package hello.world;
 
-public class Variable 
+public class LocalVariable 
 {
 	public void StudentAge()
 	{
@@ -11,7 +11,7 @@ public class Variable
  
 	public static void main(String[] args) 
 	{
-		Variable temp = new Variable();
+		LocalVariable temp = new LocalVariable();
 		temp.StudentAge();
 		
 	}
